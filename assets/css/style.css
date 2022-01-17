@@ -41,6 +41,8 @@ p{
     margin: 15px;
 }
 
+
+
 @media (max-width: 350px){
     p{
         font-size: 18px;
@@ -70,3 +72,17 @@ button{
     font-size: 25px;
     padding: 0 15px;
 }
+
+.hide{
+    visibility: hidden;
+}
+
+.revealPlus{
+    visibility: visible;
+}
+
+.revealMinus{
+    visibility: visible;
+}
+
+
