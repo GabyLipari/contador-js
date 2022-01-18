@@ -1,2 +1,3 @@
-# exercicios-javascript
-Repositório contendo exercícios e desafios de Javascript
+# 1º Exercício em JavaScript 
+
+## Contador
